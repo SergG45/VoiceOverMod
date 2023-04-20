@@ -84,3 +84,4 @@ If current line of dialogue consists of player's name, mod will differentiate ne
 - [Visual Studio 2022](https://visualstudio.microsoft.com/)
 - [MelonLoader v0.5.7](https://github.com/LavaGang/MelonLoader)
 - [UnityExplorer](https://github.com/sinai-dev/UnityExplorer)
+- [Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json)
