@@ -1,0 +1,11 @@
+C:\Users\Serg__G\Desktop\VoiceOverMod\StoryJSONtoXML\bin\Debug\StoryJSONtoXML.exe.config
+C:\Users\Serg__G\Desktop\VoiceOverMod\StoryJSONtoXML\bin\Debug\StoryJSONtoXML.exe
+C:\Users\Serg__G\Desktop\VoiceOverMod\StoryJSONtoXML\bin\Debug\StoryJSONtoXML.pdb
+C:\Users\Serg__G\Desktop\VoiceOverMod\StoryJSONtoXML\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Serg__G\Desktop\VoiceOverMod\StoryJSONtoXML\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Serg__G\Desktop\VoiceOverMod\StoryJSONtoXML\obj\Debug\StoryJSONtoXML.csproj.AssemblyReference.cache
+C:\Users\Serg__G\Desktop\VoiceOverMod\StoryJSONtoXML\obj\Debug\StoryJSONtoXML.csproj.SuggestedBindingRedirects.cache
+C:\Users\Serg__G\Desktop\VoiceOverMod\StoryJSONtoXML\obj\Debug\StoryJSONtoXML.csproj.CoreCompileInputs.cache
+C:\Users\Serg__G\Desktop\VoiceOverMod\StoryJSONtoXML\obj\Debug\StoryJSONtoXML.csproj.CopyComplete
+C:\Users\Serg__G\Desktop\VoiceOverMod\StoryJSONtoXML\obj\Debug\StoryJSONtoXML.exe
+C:\Users\Serg__G\Desktop\VoiceOverMod\StoryJSONtoXML\obj\Debug\StoryJSONtoXML.pdb
