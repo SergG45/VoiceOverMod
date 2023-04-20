@@ -65,41 +65,9 @@ Mod built initially using MelonLoader v0.5.7
 ### StoryJSONtoXML
  1. Compile program from .sln project (.NET Framework 4.7.2)
  2. Extract TextAsset `story` from `sharedassets0.assets` file from Data game directory to `story.txt`, beside .exe of program. (using [UABE](https://github.com/SeriousCache/UABE) or [Asset Studio](https://github.com/Perfare/AssetStudio))
- 3. Create `Locations.txt` file inside of program directory with contents of hierarchy from `story.txt` JSON.
+ 3. Create `Locations.txt` file inside of program directory with contents of hierarchy from `story.txt` JSON, with each staring fron new line.
 Hierarchy is used to determine the chronology of the lines for reading .XML only.
 Example:
-
-> getItem
-removeItem
-startConductorFlashback
-endConductorFlashback
-emptyInventory
-PlaytestEnd
-TrailerLines
-Beginning
-NoConversation
-NoKnot
-NotHammer
-ActuallyHammer
-Break_Out
-Environment_Amy2
-Environment_Tails2
-Give_Amy_Item2
-TestCar
-Saloon
-Prologue
-Library
-Casino
-Lounge
-Conductor_Car
-Final_Push
-SafeRoom
-DiningCloset
-MessyDiningCar
-LockdownDiningCar
-Name_Entry
-global decl
-
 [![vivaldi-dervz8nj66.png](https://i.postimg.cc/85ym4W05/vivaldi-dervz8nj66.png)](https://postimg.cc/BLKFQ8s9)
 
  4. Launch program to create `Story.xml` file.
