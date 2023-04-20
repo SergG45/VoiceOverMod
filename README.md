@@ -36,7 +36,7 @@ The mod adds the ability to load sound files for all lines of text in-game, allo
 ### Adding new audio files
 Mod has `Story.XML` file, that stores all the lines of text, made using the StoryJSONtoXML program from this repository. The lines are divided into locations, according to the original JSON Ink file from assets of a game, and are numbered from `0000` to `X000`.
 
-To add a sound for a line, save audio file with the corresponding index from the `.xml` file at start of name.
+To add a sound for a line, save audio file with the corresponding index from the `.xml` file at start of name. Not all lines need their audiofiles.
 
 Example:
 ```
