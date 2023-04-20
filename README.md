@@ -85,3 +85,4 @@ If current line of dialogue consists of player's name, mod will differentiate ne
 - [MelonLoader v0.5.7](https://github.com/LavaGang/MelonLoader)
 - [UnityExplorer](https://github.com/sinai-dev/UnityExplorer)
 - [Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json)
+- Unity library's of [The Murder of Sonic the Hedgehog](https://store.steampowered.com/app/2324650/The_Murder_of_Sonic_the_Hedgehog/)
