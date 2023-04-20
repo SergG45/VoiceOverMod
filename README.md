@@ -63,6 +63,7 @@ Mod adds `Voice Volume` slider in settings menu of the game in upper-right corne
 
 Mod built initially using MelonLoader v0.5.7
 ### StoryJSONtoXML
+Uses Nuget Newtonsoft.Json.13.0.3 package
  1. Compile program from .sln project (.NET Framework 4.7.2)
  2. Extract TextAsset `story` from `sharedassets0.assets` file from Data game directory to `story.txt`, beside .exe of program. (using [UABE](https://github.com/SeriousCache/UABE) or [Asset Studio](https://github.com/Perfare/AssetStudio))
  3. Create `Locations.txt` file inside of program directory with contents of hierarchy from `story.txt` JSON, with each staring fron new line.
