@@ -50,7 +50,7 @@ Example:
 
 ### Setting voice volume
 
-Mod adds `Voice Volume` slider in settings menu of the game in upper-right corner of the screen:
+Mod adds `Voice Volume` slider in settings menu of the game in upper-left corner of the screen:
 
 [![The-Murder-of-Sonic-The-Hedgehog-q3n-L5gwmq5.png](https://i.postimg.cc/sx5j4Pnd/The-Murder-of-Sonic-The-Hedgehog-q3n-L5gwmq5.png)](https://postimg.cc/jndYsf0Z)
 
